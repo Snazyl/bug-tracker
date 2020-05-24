@@ -1,0 +1,75 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard drive on machine 01",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-05-06T21:57:31.517Z"
+    },
+    {
+      "message": "Emails not working on machine 05",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-04-30T17:25:29.328Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "Network card changed in machine 04",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-04-30T18:31:44.997Z"
+    },
+    {
+      "id": 4,
+      "message": "Fixed keyboard on machine 05",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-04-30T18:32:38.713Z"
+    },
+    {
+      "message": "Something terrible popped up on the monitor of machine 023",
+      "attention": true,
+      "tech": "Broccoli Rob",
+      "date": "2020-05-06T22:22:12.548Z",
+      "id": 5
+    },
+    {
+      "message": "Fixed slow loading times on machine 011",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-05-06T22:22:37.836Z",
+      "id": 6
+    },
+    {
+      "message": "Machine 023 will not turn out",
+      "attention": true,
+      "tech": "Broccoli Rob",
+      "date": "2020-05-06T22:22:55.185Z",
+      "id": 7
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Broccoli",
+      "lastName": "Rob",
+      "id": 4
+    }
+  ]
+}
