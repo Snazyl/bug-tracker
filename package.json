@@ -9,7 +9,7 @@
     "express": "^4.17.1",
     "materialize-css": "^1.0.0",
     "moment": "^2.24.0",
-    "mongoose": "^5.9.12",
+    "mongoose": "^8.9.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-moment": "^0.9.7",
